@@ -3,6 +3,5 @@ Connected Devices
 
 Demo
 
-Devices Manager: http://devices.javierperez.com.ar
-
-Devices Control: http://control.javierperez.com.ar
+* Devices Manager: http://devices.javierperez.com.ar
+* Devices Control: http://control.javierperez.com.ar
